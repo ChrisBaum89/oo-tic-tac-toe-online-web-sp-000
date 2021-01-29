@@ -78,6 +78,6 @@ class TicTacToe
   end
 
   def play
-
+    puts "What position do you choose?"
   end
 end
