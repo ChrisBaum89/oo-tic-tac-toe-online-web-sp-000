@@ -79,6 +79,6 @@ class TicTacToe
 
   def play
     turn
-    
+
   end
 end
