@@ -77,8 +77,8 @@ class TicTacToe
     won? ? @board[@winner[0]] : nil
   end
 
+  def play
+
+  end
 end
 
-def play
-  
-end
