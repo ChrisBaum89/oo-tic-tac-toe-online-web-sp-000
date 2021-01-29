@@ -79,6 +79,6 @@ class TicTacToe
 
 end
 
-def TicTacToe
-  puts "What position would you like to choose?"
+def play
+  
 end
