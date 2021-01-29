@@ -78,8 +78,9 @@ class TicTacToe
   end
 
   def play
-    while over? == false
-      turn
+    turn
+    if not over? 
+      play
     end
   end
 end
