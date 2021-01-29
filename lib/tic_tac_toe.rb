@@ -81,6 +81,7 @@ class TicTacToe
     turn
     if not over?
       play
+    else
     end
   end
 end
