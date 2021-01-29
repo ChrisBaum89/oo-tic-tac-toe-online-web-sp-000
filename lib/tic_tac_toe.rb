@@ -78,6 +78,7 @@ class TicTacToe
   end
 
   def play
+    puts "#{@board}"
     puts "What position do you choose?"
   end
 end
